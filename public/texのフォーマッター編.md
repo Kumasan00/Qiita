@@ -1,7 +1,8 @@
 ---
 title: texのフォーマッター編
 tags:
-  - ''
+  - 'TeX'
+  - '
 private: false
 updated_at: ''
 id: null

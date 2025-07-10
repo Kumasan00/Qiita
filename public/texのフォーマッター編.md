@@ -12,3 +12,7 @@ ignorePublish: false
 ## latexindent
 
 latexのフォーマッターといえばlatexindetです。
+
+## cpan
+
+## vscode

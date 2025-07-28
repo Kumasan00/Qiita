@@ -1,5 +1,5 @@
 ---
-name: 提案
+name: いろいろな提案
 about: 直した方がいいことなどなんでも
 title: ''
 labels: ''
